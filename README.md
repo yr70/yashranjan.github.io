@@ -1,1 +1,1 @@
-# yashranjan.github.io
+# yr70.github.io
