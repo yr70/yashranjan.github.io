@@ -1,7 +1,7 @@
 
 ---
 layout: page
-title: "Contact"
+title: Contact
 permalink: /about/contact/
 ---
 
