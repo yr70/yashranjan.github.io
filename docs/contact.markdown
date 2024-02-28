@@ -4,4 +4,5 @@ title: Contact
 permalink: /about/contact/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at 
+Email: pro.yash2005@gmail.com  
+Address: Centre of the Milky Way Galaxy  
