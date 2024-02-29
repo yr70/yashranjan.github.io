@@ -2,6 +2,8 @@
 layout: post
 title:  "Beginnings"
 date:   2024-02-29 10:00:00 +0530
+excerpt: "Start of something new..."
+
 ---
 
 Hey there,
