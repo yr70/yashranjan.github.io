@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Beginnings
-date: 2024-02-29 12:00:00 
-categories: Tech Writing
+title:  "Welcome to Jekyll!"
+date:   2024-02-29 00:48:56 +0530
+categories: jekyll udate
 ---
 
 Hey there,
