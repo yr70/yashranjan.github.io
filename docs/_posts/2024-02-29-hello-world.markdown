@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Beginnings
-date: 2024-02-29 12:00:00 -0000
+date: 2024-02-29 12:00:00 
 categories: Tech Writing
 ---
 
