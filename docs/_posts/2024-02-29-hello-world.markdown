@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Beginnings"
 date:   2024-02-29 00:48:56 +0530
-categories: jekyll udate
+categories: start 
 ---
 
 Hey there,
