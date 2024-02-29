@@ -14,7 +14,7 @@ I'd love for you to join me on this journey. Let's navigate the ups and downs of
 Here's to new beginnings!
 
 RSS Icon 
-![Book logo](./assets/rssicon.svg)
+![Book logo](/assets/rssicon.svg)
 
 
 
