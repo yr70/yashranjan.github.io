@@ -15,6 +15,7 @@ Here's to new beginnings!
 
 RSS Icon 
 ![Book logo](/docs/assets/rssicon.svg)
+![goku](/docs/assets/Designer-5.png)
 
 
 
