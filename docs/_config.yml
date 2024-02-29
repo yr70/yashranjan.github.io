@@ -32,6 +32,8 @@ twitter_username: jekyllrb
 github_username:  yr70
 
 # Build settings
+markdown: kramdown
+permalink: pretty
 theme: jekyll-theme-minima
 theme: minima
 plugins:
