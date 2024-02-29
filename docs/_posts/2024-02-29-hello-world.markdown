@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Beginnings"
-date:   2024-02-29 10:48:56 +0000
-categories: start 
+date:   2024-02-29 10:00:00 
 ---
 
 Hey there,
