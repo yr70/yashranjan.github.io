@@ -2,7 +2,7 @@
 layout: post
 title:  "Beginnings"
 date:   2024-02-29 10:00:00 +0530
-excerpt: "Start of something new..."
+excerpt: "CIFAR-10 is a popular dataset small dataset for testing out Computer Vision Deep Learning learning methods. We're seeing a lot of improvements. But what is the human baseline?"
 
 ---
 
