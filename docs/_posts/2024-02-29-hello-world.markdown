@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Beginnings"
-date:   2024-02-29 10:00:00 
+date:   2024-02-29 10:00:00 +0530
 ---
 
 Hey there,
